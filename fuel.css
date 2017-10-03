@@ -1,0 +1,19 @@
+.wrapper {
+  border: 1px solid lightgray;
+  width: 100%;
+  min-width: 320px;
+  max-width: 500px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.header {}
+
+.logo {
+  text-align: center;
+  padding: 5px;
+}
+
+.content {}
+
+.footer {}
